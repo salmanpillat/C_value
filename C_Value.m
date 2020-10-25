@@ -5,5 +5,5 @@ function c = C_Value (SearcherPosition_X, SearcherPosition_Y, SourcePosition_X, 
     K = besselk(0,z);  % bessel function of second kind zero order
     c = K;  % concentration equation
     
-    
+% try
 end
